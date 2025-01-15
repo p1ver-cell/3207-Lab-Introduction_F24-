@@ -3,7 +3,7 @@
 #include <time.h>
 
 
-
+// 12321 
 int main()
 {
 	int a;
